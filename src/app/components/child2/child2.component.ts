@@ -1,5 +1,5 @@
 import { Component, OnInit, OnChanges } from "@angular/core";
-import { HelloService } from "src/app/services/hello.service";
+import { HelloService } from "../../services/hello.service";
 @Component({
   selector: "app-child2",
   templateUrl: "./child2.component.html",
